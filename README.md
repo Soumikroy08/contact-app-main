@@ -10,7 +10,9 @@
 
 To Deploy FrontEnd on Local Machine :
 -cd Frontend
+
 -npm i
+
 -npm run start
 
 Images :
